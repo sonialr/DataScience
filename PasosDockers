@@ -10,7 +10,7 @@ bajar el archivo tic.tar.gz con los datos del repositorio de aprendizaje de máq
 UIC (https://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/).
 descompactar
 
-[/data]$ curl https://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/latest.tar.gz | tar xvz
+[/data]$ curl https://archive.ics.uci.edu/ml/machine-learning-databases/tic-mld/tic.tar.gz | tar xvz
 
 #Conteo de lineas y de columnas para el archivo de entrenamiento
 #considerado ticdata2000.txt el Training data
